@@ -31,12 +31,11 @@ I am an **Electronics and Communication Engineering** student at BMS Institute o
 ---
 
 ### 📊 GitHub Stats
-<!-- Replace your-github-username with your actual username below -->
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=visual_studio_code&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=visual_studio_code)
+![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashhhvardhannn&show_icons=true&theme=visual_studio_code&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashhhvardhannn&layout=compact&theme=visual_studio_code)
 
 ---
 
 ### 🤝 Connect with Me
-* 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) <!-- Update link -->
-* 📧 **Email:** your.email@example.com <!-- Update email -->
+* 💼 **LinkedIn:** [linkedin.com/in/yash-vardhan-singh](https://www.linkedin.com/in/yash-vardhan-singh-988a07383/)
+* 📧 **Email:** yashvardhansingh0507@gmail.com
